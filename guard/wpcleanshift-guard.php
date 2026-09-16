@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CleanShift Guard
  * Description: Real-time security guard with override & audit logging
- * Version: 1.0.0-rc.538
+ * Version: 1.0.0-rc.560
  * Author: CleanShift Security
  * Plugin URI:   https://cleanshift.osg.co.in
  * Author URI:   https://cleanshift.osg.co.in
@@ -31,7 +31,7 @@ if ( version_compare( PHP_VERSION, '7.4', '<' ) ) {
 	return;
 }
 
-define('CLEANSHIFT_GUARD_VERSION', '1.0.0-rc.538');
+define('CLEANSHIFT_GUARD_VERSION', '1.0.0-rc.560');
 define( 'CLEANSHIFT_GUARD_DIR', __DIR__ . '/cleanshift-guard/' );
 define( 'CLEANSHIFT_GUARD_LOG_TABLE', 'cleanshift_audit_log' );
 define( 'CLEANSHIFT_GUARD_OVERRIDE_TABLE', 'cleanshift_overrides' );
