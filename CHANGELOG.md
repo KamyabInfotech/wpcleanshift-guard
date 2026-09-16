@@ -1,3 +1,7 @@
+## 1.0.0-rc.514
+
+- Tip VERSION honesty sync with wpcleanshift go-live tip.
+
 ## 1.0.0-rc.513
 
 - Tip VERSION honesty sync with wpcleanshift go-live tip (Guard PHP version + README pin; commercial Pay still operator-blocked).
