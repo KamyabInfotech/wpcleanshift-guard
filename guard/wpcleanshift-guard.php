@@ -2,11 +2,7 @@
 /**
  * Plugin Name: CleanShift Guard
  * Description: Real-time security guard with override & audit logging
-<<<<<<< HEAD
  * Version: 1.0.0-rc.634
-=======
- * Version: 1.0.0-rc.634
->>>>>>> 9c286b5 (chore: sync packaging tip to 1.0.0-rc.634)
  * Author: CleanShift Security
  * Plugin URI:   https://cleanshift.osg.co.in
  * Author URI:   https://cleanshift.osg.co.in
